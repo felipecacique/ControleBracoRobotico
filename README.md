@@ -26,3 +26,8 @@ Quando uma força é realizado sobre um material, este sofre uma deformação, r
 
 ## Resultados e conclusão
 O sensor de força utilizado apresentou repetitividade e uma sensibilidade de carga aproximadamente na faixa de 100g a 1200kg. O método de “controle direto de reflexão da força” (DFR) implementado também apresentou uma boa performance tendo em vista a simplicidade e precisão dos componentes envolvidos. Visualmente o manipulador repetiu os movimentos realizados pelo usuário, e através de testes do robô carregando diferentes objetos, foi possível controlar a força aplicada. Por fim, foi feita a automação do manipulador, no qual ele realiza repetitivamente uma tarefa programada pelo dispositivo construído.
+
+
+https://github.com/felipecacique/BracoRobotico/assets/51352535/5310217c-602e-4386-9ddc-fa64aba4ebd5
+
+
