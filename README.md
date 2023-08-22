@@ -31,3 +31,9 @@ O sensor de força utilizado apresentou repetitividade e uma sensibilidade de ca
 https://github.com/felipecacique/BracoRobotico/assets/51352535/5310217c-602e-4386-9ddc-fa64aba4ebd5
 
 
+
+
+https://github.com/felipecacique/BracoRobotico/assets/51352535/428a5444-d1cb-454a-b14a-d61bc6aa4afc
+
+
+
